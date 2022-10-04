@@ -2,11 +2,11 @@
 using namespace std;
 int main()
 {
-float x,y,z;
- cout<<"Ingrese 2 número separados de espacio x y :";
- cin>>x>>y;
- z=x+y;
+float jtgr_x,jtgr_y,jtgr_z;
+ cout<<"I_grese 2 número separados de espacio x y :";
+ cin>>jtgr_x>>jtgr_y;
+ jtgr_z=jtgr_x+jtgr_y;
  cout<<"El resultado es :";
- cout<<z<<endl;
+ cout<<jtgr_z<<endl;
 return 0;
 }

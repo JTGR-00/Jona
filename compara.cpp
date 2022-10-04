@@ -3,16 +3,16 @@ using namespace std;
 
 int main()
 {
- float n1,n2;
+ float jtgr_n1,jtgr_n2;
      cout << "Ingresé n1 y n2: ";
-     cin >>n1>>n2;	
-     if (n1>n2)
+     cin >>jtgr_n1>>jtgr_n2;	
+     if (jtgr_n1>jtgr_n2)
     {
-    cout <<n1<< " Es mayor que "<<n2<<endl;
+    cout <<jtgr_n1<< " Es mayor que "<<jtgr_n2<<endl;
     }
     else
     {
-    cout <<n2<< " Es mayor que "<<n1<<endl;
+    cout <<jtgr_n2<< " Es mayor que "<<jtgr_n1<<endl;
     }
     return 0;
 }
